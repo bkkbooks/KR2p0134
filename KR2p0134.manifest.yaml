@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0134_001.yaml, hash: 'sha256:4f5afe6132075cdf0d42863b7cd07746fbd2177aeefa32e3a46cd6dc425830b9'}
+  - {seq: 1, filename: KR2p0134_001.yaml, hash: 'sha256:4c20ac860f3a10eeeb5bab3e7d74c4c67594542cf7979da16f79c3fdf7067ec7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0134_001.markers.yaml, hash: 'sha256:1471eddb9dcde61b90519890dfaf8eac47bdcfd7bf29dee079a6711b13a4c90b'}
+  - {seq: 1, role: markers, filename: assets/KR2p0134_001.markers.yaml, hash: 'sha256:2a0b917ca1cd1058bfff138ad57a4b2fd44c38d266f21c1d917660a9557a7e36'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯江蘇邗江胡場五號漢墓木牘木楬封檢
   type: section
   level: 1
-hash: sha256:8cbd88a5d9bf424d9bfbe97998491c48b61f94630ecbebebee01ed522111a399
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:083387e5b80afdd2ff37ffa16b0ece2a0fe41a77093a1c5412769cd5566cf697
