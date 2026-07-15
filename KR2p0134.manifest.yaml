@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0134/v1
 canonical_location: https://kanripo.org/bkk/KR2p0134/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 江蘇邗江胡場五號漢墓木牘
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0134_001.yaml, hash: 'sha256:4c20ac860f3a10eeeb5bab3e7d74c4c67594542cf7979da16f79c3fdf7067ec7'}
+  - {seq: 1, filename: KR2p0134_001.yaml, hash: 'sha256:4f5afe6132075cdf0d42863b7cd07746fbd2177aeefa32e3a46cd6dc425830b9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0134_001.markers.yaml, hash: 'sha256:2a0b917ca1cd1058bfff138ad57a4b2fd44c38d266f21c1d917660a9557a7e36'}
+  - {seq: 1, role: markers, filename: assets/KR2p0134_001.markers.yaml, hash: 'sha256:8c4172ff4037860d96a6fbdb1cd8b9c69ee609fa54259a5efff4c998dc151a09'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯江蘇邗江胡場五號漢墓木牘木楬封檢
   type: section
   level: 1
-hash: sha256:083387e5b80afdd2ff37ffa16b0ece2a0fe41a77093a1c5412769cd5566cf697
+hash: sha256:ffb67ac5beefa9c66896fcb00c19fe2e6fcc315937fd52b251101b935551a960
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
